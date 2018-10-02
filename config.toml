@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Dan's Awesome New Site"
+theme = "ananke"
